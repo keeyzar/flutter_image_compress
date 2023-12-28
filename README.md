@@ -1,3 +1,8 @@
+# disclaimer
+remove, when flutter_image_compress has fixed compatibility issues
+https://github.com/fluttercandies/flutter_image_compress/issues/270
+https://github.com/fluttercandies/flutter_image_compress/issues/272
+
 # flutter_image_compress
 
 [![ImageCompress](https://img.shields.io/badge/fluttercandies-ImageCompress-blue.svg)](https://github.com/fluttercandies/flutter_image_compress)
